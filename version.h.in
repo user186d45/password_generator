@@ -1,0 +1,5 @@
+#pragma once
+
+#define password_generator_VERSION_MAJOR @password_generator_VERSION_MAJOR@
+#define password_generator_VERSION_MINOR @password_generator_VERSION_MINOR@
+#define password_generator_VERSION_PATCH @password_generator_VERSION_PATCH@

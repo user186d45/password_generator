@@ -1,2 +1,4 @@
 # password_generator
-a cpp password generator
+A cpp password generator.
+
+This project has been built using pure C++.
